@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.main{
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.content{
+  display: flex;
+  justify-content: center;
+  margin-top: -12px;
+}
+.align
+{
+  display: flex;
+  justify-content: flex-start;
+  margin-right: 12px;
+}
+.parent{
+  margin-left: 2rem;
+  width: 25rem;
+  text-align: left;
+}
+.mt-1{
+  margin: 8px;
+}
